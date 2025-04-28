@@ -35,9 +35,9 @@
 
 ### Emoji numerals (Legacy compatibility set)
 
-**Origin:** Japanese mobile messaging; formalised by Unicode  
-**First Attested:** 2010 CE (Unicode 6.0); expanded in later releases  
-**Principal Authors:** 
+- **Origin:** Japanese mobile messaging; formalised by Unicode  
+- **First Attested:** 2010 CE (Unicode 6.0); expanded in later releases  
+- **Principal Authors:** 
  * Concept pioneered by **Shigetaka Kurita** (NTT DOCOMO, 1999);
  * maintained by the **Unicode Consortium**  
 
