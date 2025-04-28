@@ -42,7 +42,7 @@
 
 **Question 3:** What do **Heptapod Language (Arrival, 2016)**, **Classical Chinese**, and **emoji** have in common?³
 
-¹idk.
+¹I heard some rumours, but basically idk.
 
 ²idk.
 
