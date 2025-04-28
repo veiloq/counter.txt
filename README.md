@@ -43,7 +43,9 @@
 **Question 3:** If emoji express (encode) feelings, why do they also include the digits 0️⃣–9️⃣?³
 
 ¹There are several things, but I find especially interesting one thing
+
 ²idk.
+
 ³idk.
 
 | Value | Emoji |
