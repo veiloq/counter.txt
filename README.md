@@ -6,13 +6,8 @@
 
 ---
 
-**Optional-1**: Answer the questions.²
-
-**Optional-2**: Add a new numeral system (public-domain) and questions¹.
-
-¹You don't have to know the answers.
-
-²There is a movie question, you can watch it and get back later.
+**Optional-1**: Answer the questions.
+**Optional-2**: Add a new numeral system (public-domain) and questions.
 
 ---
 
@@ -38,15 +33,18 @@
 - **Origin:** Japanese mobile messaging; formalised by Unicode  
 - **First Attested:** 2010 CE (Unicode 6.0); expanded in later releases  
 - **Principal Authors:** 
- * Concept pioneered by **Shigetaka Kurita** (NTT DOCOMO, 1999);
- * maintained by the **Unicode Consortium**  
+  * Concept pioneered by **Shigetaka Kurita** (NTT DOCOMO, 1999);
+  * Maintained by the **Unicode Consortium**  
 
-**Question 1:** What do **Heptapod Language (Arrival, 2016)**, **Classical Chinese**, and **emoji** have in common? 
+**Question 1:** What do **Heptapod Language (Arrival, 2016)**, **Classical Chinese**, and **emoji** have in common?¹ 
 
-**Question 2:** Why did emoji originate in Japan?
+**Question 2:** Why did emoji originate in Japan?²
 
-**Question 3:** If emoji express (encode) feelings, why do they also include the digits 0️⃣–9️⃣?
+**Question 3:** If emoji express (encode) feelings, why do they also include the digits 0️⃣–9️⃣?³
 
+¹There are several things, but I find especially interesting one thing
+²idk.
+³idk.
 
 | Value | Emoji |
 |------:|:-----:|
@@ -61,4 +59,7 @@
 | 8 | 8️⃣ |
 | 9 | 9️⃣ |
 
+%PLACEHOLDER-FOR-THE-ANSWERS%¹
+
+¹Manual Compute
 
