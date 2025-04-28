@@ -36,17 +36,21 @@
   * Concept pioneered by **Shigetaka Kurita** (NTT DOCOMO, 1999);
   * Maintained by the **Unicode Consortium**  
 
-**Question 1:** What do **Heptapod Language (Arrival, 2016)**, **Classical Chinese**, and **emoji** have in common?¹ 
+**Question 1:** If emoji express (encode) feelings, why do they also include the digits 0️⃣–9️⃣?¹
 
 **Question 2:** Why did emoji originate in Japan?²
 
-**Question 3:** If emoji express (encode) feelings, why do they also include the digits 0️⃣–9️⃣?³
+**Question 3:** What do **Heptapod Language (Arrival, 2016)**, **Classical Chinese**, and **emoji** have in common?³
 
-¹There are several things, but I find especially interesting one thing
+¹idk.
 
 ²idk.
 
-³idk.
+³There are several things, but I find especially interesting one thing
+
+---
+
+#### Snapshot
 
 | Value | Emoji |
 |------:|:-----:|
@@ -64,4 +68,7 @@
 %PLACEHOLDER-FOR-THE-ANSWERS%¹
 
 ¹Manual Compute
+
+---
+
 
