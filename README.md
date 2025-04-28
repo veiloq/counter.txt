@@ -1,13 +1,12 @@
 ## Our Semi-Automatic Web Analytics Stack
 
----
 
 **TLDR**: Visit the [vlq.ai](https://vlq.ai), whisper *"I'm here"*, open a pull request, bump `counter.txt` by **exactly +1** (in *any* numeral system).
 
 ---
 
-**Optional-1**: Answer the questions.
-**Optional-2**: Add a new numeral system (public-domain) and questions.
+1. **Optional**: Answer the questions.
+2. **Optional**: Add a new numeral system (public-domain) and questions.
 
 ---
 
@@ -16,13 +15,11 @@
 - **Conventional Commits** only.  
    *Examples*:  
    * `counter(emoji): @malkovichmalkovichmalkovich`
-- **File touch limit**: your PR may modify **only** (can be renegotiated¹)
+- **File touch limit**: your PR may modify **only** (can be renegotiated)
    * `counter.txt`
    * `README.md`
 - **Manual Compute**: A few special dedicated engineers will do the delta check. 
 - **Numeral freedom**: represent the increment in any public-domain numeral system (see snapshot below). Add a new table if your digits aren’t listed.
-
-¹If you are insisting, okay, pff.
 
 ---
 
