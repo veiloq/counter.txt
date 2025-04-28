@@ -28,7 +28,7 @@
 
 ## "JFYI" 
 
-### Emoji numerals (Legacy compatibility set)
+### Emoji numerals
 
 - **Origin:** Japanese mobile messaging; formalised by Unicode  
 - **First Attested:** 2010 CE (Unicode 6.0); expanded in later releases  
