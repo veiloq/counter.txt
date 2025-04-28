@@ -37,7 +37,9 @@
 
 **Origin:** Japanese mobile messaging; formalised by Unicode  
 **First Attested:** 2010 CE (Unicode 6.0); expanded in later releases  
-**Principal Authors:** Concept pioneered by **Shigetaka Kurita** (NTT DOCOMO, 1999); maintained by the **Unicode Consortium**  
+**Principal Authors:** 
+ * Concept pioneered by **Shigetaka Kurita** (NTT DOCOMO, 1999);
+ * maintained by the **Unicode Consortium**  
 
 **Question 1:** What do **Heptapod Language (Arrival, 2016)**, **Classical Chinese**, and **emoji** have in common? 
 
