@@ -71,7 +71,7 @@
 
 ---
 
-### QA
+### Q&A
 
 1. **Fork?** Yes.
 2. **Licence?** We don't know how to answer yet.
