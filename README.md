@@ -40,7 +40,9 @@
 **Principal Authors:** Concept pioneered by **Shigetaka Kurita** (NTT DOCOMO, 1999); maintained by the **Unicode Consortium**  
 
 **Question 1:** What do **Heptapod Language (Arrival, 2016)**, **Classical Chinese**, and **emoji** have in common? 
+
 **Question 2:** Why did emoji originate in Japan?
+
 **Question 3:** If emoji express (encode) feelings, why do they also include the digits 0️⃣–9️⃣?
 
 
