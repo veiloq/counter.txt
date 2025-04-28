@@ -7,6 +7,7 @@
 ---
 
 **Optional-1**: Answer the questions.²
+
 **Optional-2**: Add a new numeral system (public-domain) and questions¹.
 
 ¹You don't have to know the answers.
