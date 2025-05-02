@@ -1,9 +1,9 @@
 ## Our Semi-Automatic Web Analytics Stack
 
 
-**TLDR**: Visit the resource, whisper *"I'm here"* (very important), open a pull request, bump `counter.txt` by **exactly +1** (in *any* numeral system).
+**TLDR**: Visit the resource¹, whisper *"I'm here"* (very important), open a pull request, bump `counter.txt` by **exactly +1** (in *any* numeral system).
 
-**Resource**: vlq.ai, scalver.org
+**The Resource**: vlq.ai¹, scalver.org¹
 
 ---
 
