@@ -1,7 +1,7 @@
 ## Our Semi-Automatic Web³ Analytics Stack
 
 
-**TLDR**: Visit the resource¹, whisper *"I'm here"* (very important), open a pull request, bump `counter.txt` by **exactly +1** (in *any* numeral system).
+**TLDR**: Visit the resource¹ → whisper *"I'm here"* → open a pull request → bump `counter.txt` by **exactly +1** (in *any* numeral system).
 
 **The Resource**: vlq.ai¹, scalver.org¹
 
