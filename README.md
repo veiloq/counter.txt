@@ -5,12 +5,6 @@
 
 **The Resource**: vlq.ai¹, scalver.org¹
 
----
-
-1. **Optional**: Answer the questions.
-2. **Optional**: Add a new numeral system (public-domain) and questions.
-
----
 
 ## Rules & Nuances
 
@@ -22,6 +16,11 @@
    * `README.md`
 - **Manual Compute**: A few special dedicated engineers will do the delta check. 
 - **Numeral freedom**: represent the increment in any public-domain numeral system (see snapshot below). Add a new table if your digits aren’t listed.
+
+---
+
+1. **Optional**: Answer the questions.
+2. **Optional**: Add a new numeral system (public-domain) and questions.
 
 ---
 
@@ -43,9 +42,9 @@
 
 ¹I heard some rumours, but basically idk.
 
-²idk.
+²I don't know.
 
-³There are several things, but I find especially interesting one thing
+³There are several things, but, I find especially interesting one thing
 
 ---
 
