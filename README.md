@@ -10,7 +10,7 @@
 
 - **Conventional Commits** only.  
    *Examples*:  
-   * `counter(emoji): @malkovichmalkovichmalkovich`
+   * `counter(emoji): @doctor~who`
 - **File touch limit**: your PR may modify **only** (can be renegotiated)
    * `counter.txt`
    * `README.md`
