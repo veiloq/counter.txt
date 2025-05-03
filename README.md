@@ -14,7 +14,7 @@
 - **File touch limit**: your PR may modify **only** (can be renegotiated)
    * `counter.txt`
    * `README.md`
-- **Manual Compute**: A few special dedicated engineers will do the delta check. 
+- **Manual Compute**: A few (two) special dedicated engineers will do the delta check. 
 - **Numeral freedom**: represent the increment in any public-domain numeral system (see snapshot below). Add a new table if your digits aren’t listed.
 
 ---
