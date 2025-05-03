@@ -1,5 +1,4 @@
-## Our Semi-Automatic Web³ Analytics Stack
-
+## Our Web³ Analytics Stack
 
 **TLDR**: Visit the resource¹ → whisper *"I'm here"* → open a pull request → bump `counter.txt` by **exactly +1** (in *any* numeral system) → 🥂
 
